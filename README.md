@@ -1,4 +1,5 @@
-# ProjetoNLWSetup
+# Habits - Projeto do NLW Setup
+
 
 Projeto da NLWSetup para rastrear seus hábitos diários, utilizando JavaScript, HTML5 e CSS.
 
